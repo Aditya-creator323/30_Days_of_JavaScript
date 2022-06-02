@@ -142,3 +142,7 @@ let resIndexRussia = countries.findIndex(country =>{
     return country === "Russia"
 })
 console.log(resIndexRussia);
+
+
+
+
