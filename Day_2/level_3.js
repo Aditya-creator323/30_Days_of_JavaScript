@@ -12,5 +12,4 @@ let pattern = /because/gi;
 let something = sentence.match(pattern);
 console.log(something.length)
 
-// 3
 
