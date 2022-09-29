@@ -56,3 +56,14 @@ switch (new_month) {
     console.log(`${month} has 31 days`);
     break;
 }
+
+
+function compare()
+{
+    int sanfoundry=1;
+    char javascript=1;
+    if(sanfoundry.tostring()===javascript)
+        return true;
+    else 
+        return false;
+}
